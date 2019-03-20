@@ -1,0 +1,45 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "java interview questions",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "javaInterviewQuestions",
+                    "slots": [],
+                    "samples": [
+                        "tell me about java interview questions ",
+                        "java interview guide",
+                        "open java interview question",
+                        "more java questions",
+                        "java",
+                        "interview questions on java ",
+                        "java interview questions",
+                        "java questions ",
+                        "tell me something about java"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
